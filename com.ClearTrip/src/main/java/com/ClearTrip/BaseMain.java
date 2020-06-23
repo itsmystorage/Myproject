@@ -25,9 +25,7 @@ public class BaseMain {
                 driver = new ChromeDriver();
                 break;
 
-            case "Firefox":
-                driver = new FirefoxDriver();
-                break;
+           
 
             case "Iexplorer":
                 driver = new InternetExplorerDriver();
