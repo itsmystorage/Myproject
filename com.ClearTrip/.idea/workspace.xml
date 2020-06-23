@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa7403b4-91a7-4920-b20e-8b50210c07c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YE9ZUDRAWgSSsD7R6XmTOWlfHB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ClearTrip" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestNG.checkRegisterfunctionality">
+    <configuration name="TestNG (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.ClearTrip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ClearTrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ClearTrip" />
+      <option name="MAIN_CLASS_NAME" value="com.ClearTrip.TestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG.TypeFullDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.ClearTrip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ClearTrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ClearTrip" />
+      <option name="MAIN_CLASS_NAME" value="com.ClearTrip.TestNG" />
+      <option name="METHOD_NAME" value="TypeFullDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG.TypeUsername" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.ClearTrip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ClearTrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ClearTrip" />
+      <option name="MAIN_CLASS_NAME" value="com.ClearTrip.TestNG" />
+      <option name="METHOD_NAME" value="TypeUsername" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG.checkRegisterfunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.ClearTrip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ClearTrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ClearTrip" />
+      <option name="MAIN_CLASS_NAME" value="com.ClearTrip.TestNG" />
+      <option name="METHOD_NAME" value="checkRegisterfunctionality" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ClearTrip" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.ClearTrip" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ClearTrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ClearTrip" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ClearTrip" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.ClearTrip" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ClearTrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ClearTrip" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.com.ClearTrip" />
+      <item itemvalue="TestNG.TestNG (1)" />
+      <item itemvalue="TestNG.TestNG.TypeFullDetails" />
+      <item itemvalue="TestNG.TestNG.TypeUsername" />
+      <item itemvalue="TestNG.TestNG.checkRegisterfunctionality" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestNG.checkRegisterfunctionality" />
+        <item itemvalue="TestNG.TestNG.TypeUsername" />
+        <item itemvalue="TestNG.TestNG (1)" />
+        <item itemvalue="TestNG.com.ClearTrip" />
+        <item itemvalue="TestNG.TestNG.TypeFullDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7403b4-91a7-4920-b20e-8b50210c07c9" name="Default Changelist" comment="" />
+      <created>1582496941374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582496941374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="80" key="#TestNG.TypeUsername" timestamp="1582883330283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="80" key="#TestNG.TypeUsername/0.0.1536.824@0.0.1536.824" timestamp="1582883330283" />
+    <state x="487" y="93" key="#TestNG_(1)" timestamp="1582881983184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="93" key="#TestNG_(1)/0.0.1536.824@0.0.1536.824" timestamp="1582881983184" />
+    <state x="223" y="70" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582842013527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582842013527" />
+    <state x="548" y="138" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582842000378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="138" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1582842000378" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582838849432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582838849432" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1582986006780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582986006780" />
+    <state width="1493" height="279" key="GridCell.Tab.0.bottom" timestamp="1582928737208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582928737208" />
+    <state width="1493" height="279" key="GridCell.Tab.0.center" timestamp="1582928737208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582928737208" />
+    <state width="1493" height="279" key="GridCell.Tab.0.left" timestamp="1582928737208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582928737208" />
+    <state width="1493" height="279" key="GridCell.Tab.0.right" timestamp="1582928737208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582928737208" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1582841481672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582841481672" />
+  </component>
+</project>
