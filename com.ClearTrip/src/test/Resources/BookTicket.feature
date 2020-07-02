@@ -18,3 +18,5 @@ Feature: Book the Flight Ticket
     Examples:
       |From              |To                |
       |London            |Ahmedabad         |
+      |india             |  Banglore        |
+
